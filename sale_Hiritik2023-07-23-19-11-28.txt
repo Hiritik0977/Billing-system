@@ -1,0 +1,29 @@
+******************************************************************
+                    Silicon Technology             
+                        Kathmandu            
+                          Nepal             
+******************************************************************
+Customer Name: Hiritik         Time: 19:11:28
+                                                        
+ Date: 2023-07-23
+-----------------------------------------------------------------
+Laptop Name       Quantity      Unit Price    Total Price
+XPS               3            $1600.0        $4800.0      
+------------------------------------------------------------------
+Net Amount: $4800.0    
+Discount: $480.0          
+Shipping Charge: 0              
+VAT:                
+--------------------------------------------------------------------
+Grand Total: $4320.0    
+--------------------------------------------------------------------
+                                             Hiritik 
+                                             Seller Signature
+
+
+Congratulations! Your new laptop is almost ready to be delivered, 
+ and I'm pleased to inform you that the total price, including shipping and other fees is, $4320.0    .
+  
+===========================================================
+Thank you for choosing Us. We will like to serve you again!
+=============================================================

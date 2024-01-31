@@ -1,0 +1,29 @@
+******************************************************************
+                    Silicon Technology             
+                        Kathmandu            
+                          Nepal             
+******************************************************************
+Customer Name: Hrithik         Time: 00:44:35
+                                                        
+ Date: 2024-01-30
+-----------------------------------------------------------------
+Laptop Name       Quantity      Unit Price    Total Price
+Spring            1            $1600.0        $1600.0      
+------------------------------------------------------------------
+Net Amount: $1600.0    
+Discount: $160.0          
+Shipping Charge: 0              
+VAT:                
+--------------------------------------------------------------------
+Grand Total: $1440.0    
+--------------------------------------------------------------------
+                                             Hiritik 
+                                             Seller Signature
+
+
+Congratulations! Your new laptop is almost ready to be delivered, 
+ and I'm pleased to inform you that the total price, including shipping and other fees is, $1440.0    .
+  
+===========================================================
+Thank you for choosing Us. We will like to serve you again!
+=============================================================
